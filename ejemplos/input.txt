@@ -1,0 +1,7 @@
+do {
+  PUTS("Hola mundo!");
+  Break;
+} while (1);
+
+// arbol de analisis: (programa (instrucciones (instruccion (bucle do { (sentencia (salida puts ( (cadena " (caracteres (caracter H) (caracter o) (caracter l) (caracter a) (caracter m) (caracter u) (caracter n)) do ") ) ;) (terminar break ;)) } while ( (condicion 1) ) ;))))
+ 
